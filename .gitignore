@@ -1,0 +1,15 @@
+*.o
+*.so
+*.dll
+*.a
+*.txt
+*.png
+*.webp
+*.jpeg
+.Rproj.user
+.Rhistory
+inst
+windows
+src/Makevars
+inst
+configure.log
